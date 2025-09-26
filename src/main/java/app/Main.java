@@ -1,4 +1,4 @@
-package Main;
+package app;
 
 import DAO.PacienteDAO;
 import jakarta.persistence.EntityManager;
